@@ -1,1 +1,16 @@
-
+[
+  {
+    "username": "admin",
+    "password": "admin123",
+    "role": "admin",
+    "name": "Administrator",
+    "tag": "admin"
+  },
+  {
+    "username": "student1",
+    "password": "student123",
+    "role": "user",
+    "name": "Ahmad Fauzi",
+    "tag": "user"
+  }
+]
