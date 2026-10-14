@@ -4,7 +4,7 @@
       "name": "English",
       "folder": "english",
       "description": "English is fun and cool",
-      "files": ["simple_present_tense.json", "present_continuous_tense.json", "simple_and_continuous_tense"]
+      "files": ["simple_present_tense.json", "present_continuous_tense.json", "simple_and_continuous_tense.json"]
     },
     {
       "name": "Math", 
